@@ -5,3 +5,8 @@ channels:
 dependencies:
   - python>=3.6,<3.10
   - pip
+  - scipy
+  - sympy
+  - matplotlib
+  - numpy
+  - pandas
